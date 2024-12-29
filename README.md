@@ -1,0 +1,6 @@
+# php投资理财源码金融资本公司网站项目手机app理财系统每天返利平台多级推广开源程序
+
+适用范围： 理财版,运行环境：apache+php+mysql<br>全套源码： 纯净理财+PC版+手机+APP（需要自己去第三方生成）<br>1、项目发布功能 （包含项目类型+还款方式+项目规模+担保机构+起投金额+交易收益+项目期限+结息方式+投资进度）等等<br>2、合同自动生成，会员投资项目后，项目合同自动生成，不需要手工操作，方便快捷<br>3、带手机网站和app，app需要到第三方平台去生成<br>4、会员注册带手机短信验证功能，短信接口是用的短信宝平台<br>5、带在线充值功能（后台整合充值接口，包含支付宝、乐盈支付、环讯支付、国付宝、现代金控、摩宝支付、熊猫支付、网银在线、盛付通、数商宝等，需要自己二次配置开发，系统开源可二开）<br>6、会员推广功能（二级会员推广系统，后台自己控制、填写返佣金额）<br>7、会员注册签到（会员注册赠送金额，会员每天签到赠送金额，金额后台自己控制、填写）<br>8、后台智能化管理，基本上不做大的网站功能改动，都可以在后台实现修改，方便用户操作<br><br><br>源码技术本地亲测，内附详细安装说明教程~源码完全开源，可二次开发，功能比较多也比较强大，其它就不多介绍了，直接看截图吧~<br><br><br><br><br><br><br><br><br><br><br><br> <br> <br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rSzOb" style="color: red;">https://mega-file.org/rSzOb</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
